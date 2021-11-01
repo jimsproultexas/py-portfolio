@@ -2,7 +2,7 @@
 Samples of my python coding style
 
 ## Data Engineering
-Data pipelines etc..
+Data pipelines, utilities, etc..
 
 ## AWS Scripting
 Working with AWS assets including S3 buckets, AWS RDS & Aurora
